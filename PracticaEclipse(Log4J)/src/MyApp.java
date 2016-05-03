@@ -21,4 +21,5 @@ public class MyApp {
      }
      logger.trace("Exiting application.");
  }
+ 
 }
